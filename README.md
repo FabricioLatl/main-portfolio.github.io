@@ -9,7 +9,7 @@ Portfloio Website for week 2 microverse project.
  - CSS
 ## Authors
 
-👤 **Author1**
+👤 **Fabricio La Torre**
 
 - GitHub: [@fabriciolatl](https://github.com/fabricioaltl)
 - Twitter: [@Wafer_Lt](https://twitter.com/wafer_lt)

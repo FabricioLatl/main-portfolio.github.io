@@ -2,6 +2,9 @@
 
 Portfloio Website for week 2 microverse project. 
 
+## Check it out here!:
+
+  - https://fabriciolatl.github.io/main-portfolio.github.io/
 
 ## Built with
 
